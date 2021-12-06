@@ -13,7 +13,7 @@ This channel is run by Apostolos Spanakis-Misirlis, and the published content wi
 
 | Video title | Source directory |
 | ----------- | ---------------- |
-| [_A Visual Introduction to Scattering Parameters_](https://youtu.be/sprB7fxWj5I) | [`S-Parameters`](https://github.com/0xCoto/OpenEngineering/tree/main/S-Parameters) |
+| [_A Visual Introduction to Scattering Parameters_](https://youtu.be/Y6F8cWG1eGQ) | [`S-Parameters`](https://github.com/0xCoto/OpenEngineering/tree/main/S-Parameters) |
 
 ## Issues
 
